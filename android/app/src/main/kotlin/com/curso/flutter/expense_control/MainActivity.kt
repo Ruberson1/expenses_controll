@@ -1,4 +1,4 @@
-package com.curso.flutter.proj_curso_2
+package com.curso.flutter.expense_control
 
 import io.flutter.embedding.android.FlutterActivity
 
