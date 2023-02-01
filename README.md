@@ -1,4 +1,4 @@
-# proj_curso_2
+# expense_control
 
 A new Flutter project.
 

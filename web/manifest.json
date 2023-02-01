@@ -1,6 +1,6 @@
 {
-    "name": "proj_curso_2",
-    "short_name": "proj_curso_2",
+    "name": "expense_control",
+    "short_name": "expense_control",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
